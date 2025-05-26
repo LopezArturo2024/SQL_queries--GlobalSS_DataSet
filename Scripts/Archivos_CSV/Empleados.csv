@@ -1,0 +1,16 @@
+Id_Empleado;Nombre;Apellido;Cargo;Fecha_Contratacion;Telefono;Email
+21;Adrian;Hernandez;Supervisor de Ventas;2011-11-21;967893457;adrian.hernandez@example.com
+22;Brenda;Gonzalez;Ejecutivo de Ventas;2015-11-27;989015676;brenda.gonzalez@example.com
+23;Cristobal;Perez;Promotor de Ventas;2012-11-22;901237891;cristobal.perez@example.com
+24;Diana;Sanchez;Ejecutivo de Ventas;2011-06-17;934560122;diana.sanchez@example.com
+25;Emilio;Ramirez;Ejecutivo de Ventas;2015-08-23;956782346;emilio.ramirez@example.com
+26;Florencia;Torres;Asistente de Ventas;2010-10-09;978904561;florencia.torres@example.com
+27;Gonzalo;Flores;Supervisor de Ventas;2012-10-15;990126788;gonzalo.flores@example.com
+28;Hugo;Rivera;Promotor de Ventas;2016-01-01;923459013;hugo.rivera@example.com
+29;Isabel;Gomez;Asistente de Ventas;2014-03-16;945671235;isabel.gomez@example.com
+30;Javier;Diaz;Ejecutivo de Ventas;2015-12-02;967893457;javier.diaz@example.com
+31;Karina;Cruz;Asistente de Ventas;2016-07-23;989015679;karina.cruz@example.com
+32;Luis;Morales;Ejecutivo de Ventas;2011-05-29;901237892;luis.morales@example.com
+33;Ignacio;Reyes;Ejecutivo de Ventas;2018-02-06;934561235;ignacio.reyes@example.com
+34;Julia;Ortiz;Supervisor de Ventas;2015-02-05;956783455;julia.ortiz@example.com
+35;Kevin;Gutierrez;Promotor de Ventas;2015-04-19;978905679;kevin.gutierrez@example.com
